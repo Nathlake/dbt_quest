@@ -5,7 +5,7 @@ import pymysql
 
 # Paramètres de connexion.
 username = "root"
-password = "Password.22"
+password = ""
 host = "localhost"
 port = 3306
 database = "my_dbt_db"
